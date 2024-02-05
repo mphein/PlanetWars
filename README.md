@@ -7,4 +7,5 @@ Created a bot that utilizes a behavior tree to make decisions on player turns. T
 Example behaviors include attacking weakest enemy planet, spreading from strongest player planet to empty neutral planet, or reinforcing other planets.
 
 Challenges: Figuring out general strategies and decision planning for the bot. Planning out to weave these behaviors together to create a dynamic bot.
+
 Learned: Structuring behavior trees.
