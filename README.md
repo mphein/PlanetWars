@@ -8,4 +8,4 @@ Example behaviors include attacking weakest enemy planet, spreading from stronge
 
 Challenges: Figuring out general strategies and decision planning for the bot. Planning out to weave these behaviors together to create a dynamic bot.
 
-Learned: Structuring behavior trees.
+Learned: Structuring and creating behavior trees. Thinking about gameplay from a generalist decision making perspective. How might we want a bot to play to have a fighting chance against the average player?
